@@ -175,7 +175,8 @@ button:hover {
   background: #f6f6fe;
   border-radius: 8px;
   display: flex;
-  align-items: center;
+  align-items: flex-start;
+  justify-content: flex-start;
   gap: 16px;
 }
 .destroy-btn {
